@@ -37,13 +37,13 @@ Certificação
  
 ---------------------
 
-| Semana  | Segunda | Terça   | Quarta  | Quinta  | Sexta   | Sábado | Domingo |
-|---------|---------|---------|---------|---------|---------|--------|---------|
-| Semana 1| Curso 1 | Curso 1 | Curso 1 | Curso 1 | Curso 1 |Simulado| Revisão |
-| Semana 2| Curso 1 | Curso 1 | Curso 1 | Curso 1 | Curso 1 |Simulado| Revisão |
-| Semana 3| Curso 2 | Curso 2 | Curso 2 | Curso 2 | Curso 2 |Simulado| Revisão |
-| Semana 4| Curso 2 | Curso 2 | Curso 2 | Curso 2 | Curso 2 |Simulado| Revisão |
-| Semana 5|Simulado |Simulado | Livro   | Livro   | Livro   |Simulado| Revisão |
-| Semana 6|Simulado |Simulado | Livro   | Livro   | Livro   |Simulado| Revisão |
-| Semana 7| Livro   | Livro   | Livro   | Livro   | Livro   |Simulado| Revisão |
-| Semana 8| Livro   | Livro   | Livro   | Livro   | Livro   |Simulado| Revisão |
+| Semana  | Segunda     | Terça       | Quarta      | Quinta      | Sexta       | Sábado    | Domingo   |
+|---------|-------------|-------------|-------------|-------------|-------------|-----------|-----------|
+| Semana 1| Curso 1     | Curso 1     | Curso 1     | Curso 1     | Curso 1     |Simulado 1 | Revisão   |
+| Semana 2| Curso 1     | Curso 1     | Curso 1     | Curso 1     | Curso 1     |Simulado 2 | Revisão   |
+| Semana 3| Curso 2     | Curso 2     | Curso 2     | Curso 2     | Curso 2     |Simulado 3 | Revisão   |
+| Semana 4| Curso 2     | Curso 2     | Curso 2     | Curso 2     | Curso 2     |Simulado 4 | Revisão   |
+| Semana 5|Simulado 5   |Simulado 6   | Livro       | Livro       | Livro       |Simulado 7 | Revisão   |
+| Semana 6|Simulado 8   |Simulado 9   | Livro       | Livro       | Livro       |Simulado 10| Revisão   |
+| Semana 7| Livro       | Livro       | Livro       | Livro       | Livro       |Simulado 11| Revisão   |
+| Semana 8| Livro       | Livro       | Livro       | Livro       | Livro       |Simulado 12| Revisão   |
