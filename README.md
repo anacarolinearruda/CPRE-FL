@@ -1,7 +1,7 @@
 # CPRE-FL
 Certificação  
 
-**Estou dedicado a um projeto pessoal: minha preparação para a certificação CPRE-FL. Gostaria de compartilhar meu cronograma de estudos.**
+**Estou dedicada a um projeto pessoal: minha preparação para a certificação CPRE-FL. Gostaria de compartilhar meu cronograma de estudos.**
 
 **Objetivo: Obter a Certificação CPRE-FL**
 
