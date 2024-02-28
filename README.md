@@ -35,7 +35,7 @@ Certificação
   - Meta: Aplicar ativamente os conceitos estudados em problemas práticos e exercícios.
   - Cronograma Evolutivo: Reservar tempo diário para resolver problemas e casos de estudo relacionados à engenharia de requisitos.
  
-  - Claro, aqui está uma tabela com os dias da semana para o plano de estudos de 8 semanas:
+---------------------
 
 | Semana  | Segunda | Terça   | Quarta  | Quinta  | Sexta   | Sábado | Domingo |
 |---------|---------|---------|---------|---------|---------|--------|---------|
